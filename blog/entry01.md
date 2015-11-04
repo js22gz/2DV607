@@ -1,7 +1,7 @@
 #Introduction#
 Hello! I'm Jonatan Skäryd. 31 years old living in Kalmar. Programming has been a hobby of mine since I first started playing MUD back in the late 1990's. On and of some basic C-coding during my teenage years and a long break while I studied and became a teacher in Swedish and Religion six years ago. 
 
-As I was teaching simple html/javascript to my students I realized I had to go and study again if I wanted to become good at teaching Computer Science (not only good but also "licensed" *smirk*). So LNU had this program called "Teacher specialization within computer science" in wich I enrolled.
+As I was teaching simple html/javascript to my students I realized I had to go and study again if I wanted to become good at teaching Computer Science (not only good but also "licensed" ;) ). So LNU had this program called "Teacher specialization within computer science" in wich I enrolled.
 
 So for almost two years now I've been keeping busy, working full time and studying half time. In my backpack so far I've aquired basic knowledge of HTML, CSS and Javascript complemented by decent knowledge of Java. 
 
