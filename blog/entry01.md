@@ -11,3 +11,9 @@ As I'm getting started with this course I realise that my "webbines" is not what
 Even so, One thing that has been in my favor is that Sublime seems to be a text editor of choice for others than me. yey +1!
 
 My hopes and goals is to learn as much as possible of course, but also seeing how other people tackle programming problems since I've been doing all my programming on my own.
+
+---
+
+#### Comments
+
+[David](http://blog.krawaller.se/riaguild2015/#/member/krawaller): you omitted the most important part - which MUD? I spent my teacher university years [here](http://midnightsun2.org/)... :)
